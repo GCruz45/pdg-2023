@@ -1,0 +1,39 @@
+{
+  "datasetName": "gls_all",
+  "maxResults": 100,
+  "startingNumber": 1,
+  "metadataType": "summary",
+  "sortField": null,
+  "sortDirection": null,
+  "sortCustomization": null,
+  "useCustomization": false,
+  "sceneFilter": {
+    "acquisitionFilter": null,
+    "cloudCoverFilter": {
+      "max": 100,
+      "min": 0,
+      "includeUnknown": true
+    },
+    "metadataFilter": null,
+    "spatialFilter": {
+      "filterType": "mbr",
+      "lowerLeft": {
+        "latitude": 40,
+        "longitude": -120
+      },
+      "upperRight": {
+        "latitude": 50,
+        "longitude": -100
+      }
+    },
+    "ingestFilter": null
+  },
+  "compareListName": null,
+  "bulkListName": null,
+  "orderListName": null,
+  "excludeListName": null,
+  "includeNullMetadataValues": false
+}
+
+
+

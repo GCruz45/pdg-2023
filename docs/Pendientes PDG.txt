@@ -1,0 +1,16 @@
+metodos inpainting
+inpainting original
+inpainting/gan
+deep autoencoder
+deep transformer
+urban growth models
+2019-2020 
+cuda
+paperswithcode.com
+
+articulos inpainting con opencv:
+Bertalmio, Marcelo, Andrea L. Bertozzi, and Guillermo Sapiro. "Navier-stokes, fluid dynamics, and image and video inpainting." In Computer Vision and Pattern Recognition, 2001. CVPR 2001. Proceedings of the 2001 IEEE Computer Society Conference on, vol. 1, pp. I-355. IEEE, 2001.
+Telea, Alexandru. "An image inpainting technique based on the fast marching method." Journal of graphics tools 9.1 (2004): 23-34.
+
+leer libro deep learning
+repasar algebra lineal

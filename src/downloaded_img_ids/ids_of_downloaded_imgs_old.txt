@@ -1,0 +1,18 @@
+item_type = "PSScene3Band"; asset_type = 'visual'
+
+IDs Range: 1-29.
+
+IDs Range: 30-39. Total Downloaded: 10. Date of download: July 12, 2022
+
+IDs Range: 40-49. Total Downloaded: 10/10. Date of download: July 13, 2022
+
+IDs Range: 50-99. Total Downloaded: 50/50. Date of download: July 13, 2022
+
+IDs Range: 10-19. Total Downloaded: 10/10. Date of download: July 13, 2022
+
+IDs Range: 10-19. Total Downloaded: 10/10. Date of download: July 13, 2022
+
+IDs Range: 0-10. Total Downloaded: 11/11. Date of download: July 13, 2022
+
+IDs Range: 0-9. Total Downloaded: 10/10. Date of download: July 13, 2022
+
